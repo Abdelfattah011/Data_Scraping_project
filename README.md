@@ -1,6 +1,8 @@
 # 🕸️ Naukrigulf Web Scraper - Data Engineering Project
 
-![Web Scraping Project Banner](watermarked_img_17750768794119813779.jpg)
+<p align="center">
+  <img src="data_scraping.jpg" alt="University Network Topology" width="100%">
+</p>
 
 ## 📌 Project Overview
 This project is an automated web scraping pipeline built to extract job listings from [Naukrigulf](https://www.naukrigulf.com/). It specifically targets "Data Engineer" job postings, navigates through multiple pages automatically, and extracts key details for each job. The scraped data is then processed and exported into a structured CSV file for further analysis.
