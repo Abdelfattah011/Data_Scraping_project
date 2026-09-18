@@ -1,7 +1,7 @@
 # 🕸️ Naukrigulf Web Scraper - Data Engineering Project
 
 <p align="center">
-  <img src="data_scraping.jpg" alt="University Network Topology" width="100%">
+  <img src="data_scraping.jpg" alt="Data Scraping" width="100%">
 </p>
 
 ## 📌 Project Overview
