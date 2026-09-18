@@ -35,3 +35,14 @@ The project is structured into clear, logical steps within the Jupyter environme
    ```bash
    git clone https://github.com/Abdelfattah011/Data_Scraping_project.git
    ```
+2. Install the required dependencies:
+   ```bash
+   pip install selenium pandas
+   ```
+3. Ensure you have the Chrome WebDriver installed and compatible with your current Google Chrome version.
+   
+5. Run the Jupyter Notebook or Python script.   
+
+👨‍💻 Author
+Abdelfattah Ahmed Abdelfattah
+Data Engineer
